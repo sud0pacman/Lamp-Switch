@@ -90,15 +90,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-## 📞 **Contact & Support**
-
-For any questions, suggestions, or support, feel free to reach out:
-
-- 📧 **Email:** developer@example.com
-- 🌐 **GitHub:** [Lamp Switcher Repository](https://github.com/username/lamp-switcher)
-
----
-
 ## 🙏 **Acknowledgments**
 
 - Flutter development team for the amazing framework
@@ -123,6 +114,7 @@ This project serves as an excellent learning resource for Flutter developers:
 - **Image Handling**: See how to work with images, including error handling and interactive viewing
 
 Whether you're a beginner looking to understand Flutter basics or an experienced developer seeking animation inspiration, this codebase offers valuable insights into modern Flutter development practices.
+
 
 
 
