@@ -23,7 +23,7 @@ download the APK directly:
 
 <table>
   <tr>
-    <td><img src="images/lamp-home.jpg" alt="Home Screen" width="200"/></td>
+    <td><img src="assets/images/lamp10_off.png" alt="Home Screen" width="200"/></td>
     <td><img src="images/lamp-grid.jpg" alt="Lamp Grid" width="200"/></td>
     <td><img src="images/lamp-off.jpg" alt="Lamps Off" width="200"/></td>
   </tr>
@@ -126,3 +126,4 @@ This project serves as an excellent learning resource for Flutter developers:
 - **Image Handling**: See how to work with images, including error handling and interactive viewing
 
 Whether you're a beginner looking to understand Flutter basics or an experienced developer seeking animation inspiration, this codebase offers valuable insights into modern Flutter development practices.
+
