@@ -35,9 +35,6 @@ download the APK directly:
 </table>
 
 ## 🎞️ **Video**
-
-<video src"https://github.com/user-attachments/assets/a6e1efb5-7952-43f7-9d42-67338fe51c3c" width="250" />
-
 <video controls width="250">
   <source src="https://github.com/user-attachments/assets/a6e1efb5-7952-43f7-9d42-67338fe51c3c" type="video/mp4" />
 <video/>
@@ -134,6 +131,7 @@ This project serves as an excellent learning resource for Flutter developers:
 - **Image Handling**: See how to work with images, including error handling and interactive viewing
 
 Whether you're a beginner looking to understand Flutter basics or an experienced developer seeking animation inspiration, this codebase offers valuable insights into modern Flutter development practices.
+
 
 
 
