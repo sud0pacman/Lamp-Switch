@@ -23,14 +23,14 @@ download the APK directly:
 
 <table>
   <tr>
-    <td><img src="assets/images/lamp10_off.png" alt="Home Screen" width="200"/></td>
-    <td><img src="images/lamp-grid.jpg" alt="Lamp Grid" width="200"/></td>
-    <td><img src="images/lamp-off.jpg" alt="Lamps Off" width="200"/></td>
+    <td><img src="assets/screenshots/s1.jpg" alt="Lamp Screen On" width="200"/></td>
+    <td><img src="assets/screenshots/s2.jpg" alt="Lamp Screen Off" width="200"/></td>
+    <td><img src="assets/screenshots/s3.jpg" alt="Lamp Screen L" width="200"/></td>
   </tr>
   <tr>
-    <td><img src="images/lamp-on.jpg" alt="Lamps On" width="200"/></td>
-    <td><img src="images/lamp-detail.jpg" alt="Lamp Detail" width="200"/></td>
-    <td><img src="images/lamp-sizes.jpg" alt="Size Options" width="200"/></td>
+    <td><img src="assets/screenshots/s4.jpg" alt="Lamp Screen S" width="200"/></td>
+    <td><img src="assets/screenshots/s6.jpg" alt="Lamp Detail" width="200"/></td>
+    <td><img src="assets/screenshots/s7.jpg" alt="Lamp Detail" width="200"/></td>
   </tr>
 </table>
 
@@ -126,4 +126,5 @@ This project serves as an excellent learning resource for Flutter developers:
 - **Image Handling**: See how to work with images, including error handling and interactive viewing
 
 Whether you're a beginner looking to understand Flutter basics or an experienced developer seeking animation inspiration, this codebase offers valuable insights into modern Flutter development practices.
+
 
